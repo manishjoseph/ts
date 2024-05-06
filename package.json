@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/faker": "^6.6.9",
+    "@types/google.maps": "^3.55.7",
+    "axios": "^0.27.2",
+    "faker": "^6.6.6"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
